@@ -4,10 +4,9 @@
 
 #基于 4.4.198 Linux 内核版本源码来自https://github.com/hanwckf/padavan-4.4 感谢hanwckf
 
-
 #固件均使用https://github.com/chongshengB/Padavan-build 自动编译 
 
-#发布固件都已经上机测试过
+#发布固件均已上机测试
 
 #默认登陆IP:192.168.2.1
 
@@ -15,4 +14,3 @@
 
 #默认wifi密码:1234567890
 
-#有问题请提交 https://github.com/Me-x/K2P/issues
